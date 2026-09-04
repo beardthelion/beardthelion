@@ -1,4 +1,4 @@
-Software engineer. LLM training data, eval harnesses, agent tooling. Fail-closed trust boundaries (SSRF, credentials, path escape, sandbox).
+Software engineer. LLM training data, eval harnesses, agent tooling.
 
 ### Building
 
